@@ -15,10 +15,10 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.com/AlecSiikaluoma/Weba";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://obscure-anchorage-64518.herokuapp.com";
     }
 }
