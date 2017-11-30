@@ -13,6 +13,10 @@ public class AliveApplication {
     public static String githubUrl() {
         return "https://github.com/AlecSiikaluoma/Weba";
     }
+    
+    public static String githuUrl() {
+        return "https://github.com/AlecSiikaluoma/Web";
+    }
 
     public static String travisUrl() {
         return "https://travis-ci.com/AlecSiikaluoma/Weba";
